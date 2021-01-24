@@ -1,0 +1,54 @@
+Identificativo:	0
+Descrizione:		Primo
+Costo:			70
+Anno di acquisto:	24/01/2021 00:00:00
+Anno di scadenza:	24/01/2022 00:00:00
+
+Identificativo:	1
+Descrizione:		Secondo
+Costo:			80
+Anno di acquisto:	10/01/2005 00:00:00
+Anno di scadenza:	10/01/2006 00:00:00
+
+Identificativo:	2
+Descrizione:		Terzo
+Costo:			90
+Anno di acquisto:	20/11/2020 00:00:00
+Anno di scadenza:	20/11/2023 00:00:00
+
+Identificativo:	0
+Descrizione:		Primo
+Costo:			70 euro
+Anno di acquisto:	24/01/2021
+Anno di scadenza:	24/01/2024
+
+Identificativo:	1
+Descrizione:		Secondo
+Costo:			80 euro
+Anno di acquisto:	10/01/2005
+Anno di scadenza:	10/01/2007
+
+Identificativo:	2
+Descrizione:		Terzo
+Costo:			90 euro
+Anno di acquisto:	20/11/2020
+Anno di scadenza:	20/11/2021
+
+Identificativo:	0
+Descrizione:		Primo
+Costo:			70 euro
+Anno di acquisto:	24/01/2021
+Anno di scadenza:	24/01/2022
+
+Identificativo:	1
+Descrizione:		Secondo
+Costo:			80 euro
+Anno di acquisto:	10/01/2005
+Anno di scadenza:	10/01/2006
+
+Identificativo:	2
+Descrizione:		Terzo
+Costo:			90 euro
+Anno di acquisto:	20/11/2020
+Anno di scadenza:	20/11/2022
+

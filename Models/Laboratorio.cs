@@ -47,7 +47,7 @@ namespace AS2021_TPSIT_4H_BartoliniLiam_laboratorio.Models
         {
             StringBuilder sb = new StringBuilder();
             foreach (var s in _strumenti)
-                if (s.AnnoScadenza <= DateTime.Today)
+                if (s.AnnoScadenza >= DateTime.Today)
                     sb.AppendLine(s.ToString());
             return sb.ToString();
         }
