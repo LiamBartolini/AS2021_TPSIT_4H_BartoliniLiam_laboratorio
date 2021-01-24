@@ -11,11 +11,15 @@ namespace AS2021_TPSIT_4H_BartoliniLiam_laboratorio.Models
         
         public void AggiuntaStrumento(string descrizione, double costo, DateTime annoDiAcquisizione) => _strumenti.Add(new Strumento(descrizione, costo, annoDiAcquisizione));
 
-        public void EliminazioneStrumento(int identificativo)
+        public bool EliminazioneStrumento(int identificativo)
         {
             foreach (var s in _strumenti)
                 if (s.NumeroIdentificativo == identificativo)
+                {
                     _strumenti.RemoveAt(identificativo);
+                    return true;
+                }
+            return false;
         }
 
         public Strumento RicercaStrumento(int identificativo)
